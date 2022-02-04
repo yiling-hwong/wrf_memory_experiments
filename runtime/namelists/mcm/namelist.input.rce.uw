@@ -16,7 +16,7 @@
  end_minute                          = 00,
  end_second                          = 00,
  history_interval                    = 60, ! Output time interval [min]
- history_outname                     = "/g/data3/up6/yh6266/WRF/outputs/uw_only/sims/mcm/idealrad_u0v0/ctrl/rce_runs/wrfout_<date>"
+ history_outname                     = "/path/wrfout"
  frames_per_outfile                  = 24, ! one file per 24 hours
  restart                             = .false.,
  restart_interval                    = 1440, ! Restart interval [min] (1440=1d)
