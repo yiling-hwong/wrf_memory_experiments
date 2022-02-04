@@ -16,7 +16,7 @@
  end_minute                          = 00,
  end_second                          = 00,
  history_interval                    = 2,
- history_outname                     = "/g/data3/w42/yh6266/WRF/outputs/uw/sims/memory_experiments/wrfout_fixvars_<date>"
+ history_outname                     = "/path/wrfout"
  frames_per_outfile                  = 10000 
  restart                             = .true.,
  restart_interval                    = 144000, ! in minutes [144000 = 100d]
